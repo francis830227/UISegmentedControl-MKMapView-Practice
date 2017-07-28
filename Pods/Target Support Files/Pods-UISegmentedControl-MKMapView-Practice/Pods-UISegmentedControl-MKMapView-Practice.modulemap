@@ -1,0 +1,6 @@
+framework module Pods_UISegmentedControl_MKMapView_Practice {
+  umbrella header "Pods-UISegmentedControl-MKMapView-Practice-umbrella.h"
+
+  export *
+  module * { export * }
+}
